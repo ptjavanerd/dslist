@@ -48,5 +48,5 @@ public class GameMinDTO {
 		return short_description;
 	}
 	
-	
+
 }
